@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" alt="image" width="400">
+<img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" alt="image" width="200">
 </div>
-
+<div align="center">
+<p><strong>Connect with Me</strong></p>
+</div>
 
 
 <div align="center">
@@ -14,7 +16,7 @@
 <br>
 <br>
 <div align="center">
-<h1><strong>Hi, there ✌</strong></h1>
+<h1><strong>Hi there, I'm Priyanshu ✌</strong></h1>
 </div>
 
 <div align="center">
