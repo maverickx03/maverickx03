@@ -7,10 +7,10 @@
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/priyanshu-jha-952baa228/"> <img src="https://img.icons8.com/stickers/344/linkedin-circled.png" alt="linkedin" width="80"></a>
-<a href="https://www.instagram.com/pr_y_ns_u_/">  <img src="https://img.icons8.com/3d-fluency/344/instagram-new.png" alt="insta" width="80"></a>
-<a href="https://www.hackerrank.com/priyanshujha200">  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="80"></a>
-<a href="https://twitter.com/Priyans75614912">  <img src="https://img.icons8.com/color/344/twitter--v1.png" alt="twitter" width="80"></a>
+<a href="https://www.linkedin.com/in/priyanshu-jha-952baa228/" target="blank"> <img src="https://img.icons8.com/stickers/344/linkedin-circled.png" alt="linkedin" width="80"></a>
+<a href="https://www.instagram.com/pr_y_ns_u_/" target="blank">  <img src="https://img.icons8.com/3d-fluency/344/instagram-new.png" alt="insta" width="80"></a>
+<a href="https://www.hackerrank.com/priyanshujha200" target="blank">  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="80"></a>
+<a href="https://twitter.com/Priyans75614912" target="blank">  <img src="https://img.icons8.com/color/344/twitter--v1.png" alt="twitter" width="80"></a>
 
 </div>
 <br>
